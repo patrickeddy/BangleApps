@@ -5062,5 +5062,22 @@
       {"name":"ltherm.app.js","url":"app.js"},
       {"name":"ltherm.img","url":"icon.js","evaluate":true}
     ]
-  }
+  },
+  
+  {
+    "id": "skate",
+    "name": "Skate",
+    "shortName": "Skate",
+    "version": "0.01",
+    "description": "Track your letters while playing skate.",
+    "icon": "skate.png",
+    "tags": "tool",
+    "supports": ["BANGLEJS2"],
+    "allow_emulator": true,
+    "readme": "README.md",
+    "storage": [
+      {"name":"skate.app.js","url":"app.js"},
+      {"name":"skate.img","url":"app-icon.js","evaluate":true}
+    ]
+  },
 ]
